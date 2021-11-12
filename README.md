@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I can play yoyo.
 
-![Ranj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanjDev&count_private=true&show_icons=true&theme=tokyonight)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanjDev&layout=compact&theme=tokyonight)]
+
+
+![Ranj's GitHub stats](https://github-readme-stats.vercel.app/api?username=RanjDev&count_private=true&show_icons=true&theme=tokyonight)
