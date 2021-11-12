@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can play yoyo.
 
 (https://github-readme-stats.vercel.app/api?username=RanjDev&count_private=true&show_icons=true&theme=tokyonight)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=RanjDev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanjDev&layout=compact&theme=tokyonight)]
