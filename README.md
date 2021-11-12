@@ -1,6 +1,6 @@
-### Hi there 👋
+### Ranj is here 👋
 
-Here are some ideas to get you started:
+Since you are really interested:
 
 - 🔭 I’m currently working on becoming a Fullstack Developer
 - 🌱 I’m currently learning React Js and Node Js
