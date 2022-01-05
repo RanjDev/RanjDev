@@ -2,13 +2,12 @@
 
 Since you are really interested:
 
-- 🔭 I’m currently working on becoming a Fullstack Developer
-- 🌱 I’m currently learning React Js and Node Js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Fullstack web projects.
+- 🌱 I’m currently working with React Js and Node Js
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about TailwindCss...
 - 📫 How to reach me: on my personal [LinkedIn](https://www.linkedin.com/in/ranj-jalal-8aa39b215/)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I can play yoyo.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanjDev&layout=compact&theme=tokyonight)
